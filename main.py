@@ -6,8 +6,7 @@ end = 16
 intervals = 5
 output = []
 
-diff = (end-start)
-iterator = diff/(intervals+1)
+iterator = (end-start)/(intervals+1)
 
 for n in range(intervals):
   start = round(start+iterator,1)
