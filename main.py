@@ -1,4 +1,3 @@
-#Interval finder
 #Example: start = 10, end = 16, intervals = 5, output: [11.0,12.0,13.0,14.0,15.0]
 
 start = 10
